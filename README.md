@@ -192,7 +192,7 @@ https://github.com/user-attachments/assets/12a5e23d-fe4f-45e5-806f-ebcb271c409e
    END OF TERMS AND CONDITIONS
 
 
-   Copyright [2025] [Chulindra Rai]
+   Copyright  [2025] [Chulindra Rai]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
